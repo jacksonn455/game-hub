@@ -4,7 +4,7 @@ A modern, responsive React-based frontend for Game-Hub
 
 ![](https://github.com/jacksonn455/game-hub/blob/main/public/images/img1.png)
 
-![](https://github.com/jacksonn455/game-hub/blob/main/public/images/img1.png)
+![](https://github.com/jacksonn455/game-hub/blob/main/public/images/img2.png)
 
 ### Install dependencies
 
